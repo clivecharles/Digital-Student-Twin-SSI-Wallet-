@@ -1,0 +1,11 @@
+.card {
+  display: "flex";
+  margin-bottom: 50px;
+}
+.images {
+  min-width: 100;
+}
+
+.content {
+  padding: 50px;
+}

@@ -1,0 +1,62 @@
+html,
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-color: rgb(245, 245, 245);
+}
+.App {
+  margin: 70px auto 0 auto;
+  max-width: 1300px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.nav-container {
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Sidebar {
+  height: 100%;
+  width: 200px;
+  background-color: white;
+}
+
+.SidebarList {
+  height: auto;
+  width: 100%;
+  padding: 0;
+}
+
+.SidebarList .row {
+  width: 100%;
+  height: 60px;
+  list-style-type: none;
+  margin: 0%;
+  display: flex;
+  flex-direction: row;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.SidebarList .row:hover {
+  cursor: pointer;
+  background-color: #ff8896;
+}
+
+.row #icon {
+  flex: 30%;
+  display: grid;
+  place-items: center;
+}
+
+.row #title {
+  flex: 70%;
+}

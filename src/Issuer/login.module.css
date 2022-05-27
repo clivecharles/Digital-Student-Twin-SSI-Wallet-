@@ -1,0 +1,31 @@
+.form {
+  text-align: center !important;
+}
+
+.pageTitle {
+  margin: 10px auto 10px auto !important;
+}
+
+.image {
+  margin: 20px auto 20px auto;
+  width: 150px;
+}
+.textField {
+  margin: 10px auto 10px auto !important;
+}
+
+.button {
+  margin-top: 40px !important;
+  position: relative !important;
+  color: "red";
+}
+
+.customError {
+  color: "red";
+  margin-top: 10px;
+  font-size: 8rem;
+}
+
+.progress {
+  position: absolute !important;
+}
