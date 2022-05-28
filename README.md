@@ -12,7 +12,7 @@ credentials which then can be used by students to identify themselves with relev
 of one's identity across multiple domains and contexts.
 
 
-#What is a self sovereign identity ?
+# What is a self sovereign identity ?
 
 A self sovereign identity (SSI) can be described as a user-centric identity where
 the user is placed at the center and responsible for maintaining their own identity. Generally
