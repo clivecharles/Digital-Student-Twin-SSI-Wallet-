@@ -37,7 +37,8 @@ signed by an issuer using a private key. The signature can then later be verifie
 the public key of the issuer. This process makes the verifiable credentials more
 tamper proof than our physical counterparts.
 
-#Screenshots
-<img src= "images/home_page.jpg" width = "100">
+# Screenshots
+
+<img src="src/Images/home_page.jpg" width = "100">
 
 
