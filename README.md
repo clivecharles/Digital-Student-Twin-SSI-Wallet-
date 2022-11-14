@@ -39,6 +39,6 @@ tamper proof than our physical counterparts.
 
 # Screenshots
 
-<img src="src/Images/home_page.jpg" width = "300">
+<img src="src/Images/home_page.jpg" width = "600">
 
 
