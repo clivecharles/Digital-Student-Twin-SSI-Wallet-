@@ -38,6 +38,6 @@ the public key of the issuer. This process makes the verifiable credentials more
 tamper proof than our physical counterparts.
 
 #Screenshots
-<img src= "images/home_page.jpg" width = "100" >
+<img src= "images/home_page.jpg" width = "100">
 
 
