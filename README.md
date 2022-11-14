@@ -41,6 +41,7 @@ tamper proof than our physical counterparts.
 
 <img src="src/Images/home_page.jpg" width = "600">
 <img src="src/Images/Verifiable_Credential_list.jpg" width = "600">
+<img src="src/Images/detailedCertificate_info.jpg" width = "600">
 <img src="src/Images/egovt_application_form.jpg" width = "600">
 
 
